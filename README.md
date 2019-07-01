@@ -20,9 +20,8 @@
 
 ***
 
-## DIAGRAMA DE CLASES
-
-![fotos](UML.PNG)
+## DIAGRAMA DE CLASES ![][1]
+[1]: UML.PNG
 
 ## En el desarrollo de este código se utizó 5 pilares en la POO:
 + Encapsulamiento
